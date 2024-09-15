@@ -1,1 +1,1 @@
-influxdb
+dosyago/browserbox
